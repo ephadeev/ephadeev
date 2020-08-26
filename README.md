@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm a junior frontend developer.
+Currently looking for a job.
+
+### Tech Stack
+HTML5, CSS3, JavaScript, Git, Gulp, Webpack, jQuery, React, Redux, Bootstap, SCSS, Firebase, Regular Expressions 
+
+---
+
+<img alt="Evgeny Phadeev’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ephadeev&show_icons=true&hide-border=true"/>
 
 <!--
 **ephadeev/ephadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
