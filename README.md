@@ -4,7 +4,7 @@ I'm a junior frontend developer.
 Currently looking for a job.
 
 ### Tech Stack
-HTML5, CSS3, JavaScript, Git, Gulp, Webpack, jQuery, React, Redux, Bootstap, SCSS, Firebase, Regular Expressions 
+HTML5, CSS3, JavaScript, Git, Gulp, Webpack, jQuery, React, Redux, Bootstap, SCSS, Firebase, Regular Expressions, Node js, Express js, MongoDB 
 
 ---
 
