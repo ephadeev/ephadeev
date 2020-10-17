@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a junior frontend developer.
+I'm a frontend developer.
 Currently looking for a job.
 
 ### Tech Stack
