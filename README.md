@@ -3,14 +3,14 @@
 I'm a Software Engineer.
 
 ### Tech Stack
-HTML5, CSS3, SCSS, Bootstap,
-Git, Gulp, Webpack,
-JavaScript,jQuery,
-React, Redux,
-Regular Expressions,
-Node js, Express js,
-Java, Maven, Gradle,
-MongoDB, MySQL,
+HTML5, CSS3, SCSS, Bootstap, 
+Git, Gulp, Webpack, 
+JavaScript,jQuery, 
+React, Redux, 
+Regular Expressions, 
+Node js, Express js, 
+Java, Maven, Gradle, 
+MongoDB, MySQL, 
 Firebase, Jenkins
 
 ---
