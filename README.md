@@ -1,10 +1,17 @@
 ### Hi there! 👋
 
-I'm a frontend developer.
-Currently looking for a job.
+I'm a Software Engineer.
 
 ### Tech Stack
-HTML5, CSS3, JavaScript, Git, Gulp, Webpack, jQuery, React, Redux, Bootstap, SCSS, Firebase, Regular Expressions, Node js, Express js, MongoDB 
+HTML5, CSS3, SCSS, Bootstap,
+Git, Gulp, Webpack,
+JavaScript,jQuery,
+React, Redux,
+Regular Expressions,
+Node js, Express js,
+Java, Maven, Gradle,
+MongoDB, MySQL,
+Firebase, Jenkins
 
 ---
 
